@@ -11,7 +11,7 @@ A responsive admin dashboard built with **Next.js (App Router)** and **Material 
 
 ## Demo
 
-🔗 [Live on Vercel](https://adminpanel-next-a1k10ztae-mohadsezare-webs-projects.vercel.app/)
+🔗 [Live on Vercel](https://adminpanel-next-mui.vercel.app/)
 
 ## Test Login
 
